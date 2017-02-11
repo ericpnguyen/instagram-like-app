@@ -7,3 +7,4 @@ https://www.youtube.com/watch?v=MpFO4Zr0EPE
 
 The following is an outline of the program's functions:
 
+![Alt text](Instagram-Application-/Screen Shot 2017-02-10 at 7.53.20 PM.png)

@@ -23,6 +23,10 @@ After clicking the sign up button, the user is redirected to the following page,
 
 ![right 150%](Screen Shot 2017-02-10 at 7.54.03 PM.png)
 
+If the user clicks the "Logout" tab at the top of the webpage, a dialogue box will pop up asking for confirmation:
+
+![right 150%](Screen Shot 2017-02-10 at 10.51.24 PM.png)
+
 If the user decides to log out, they are redirected to a page containing a message box saying, "Signed out successfully".
 
 ![right 150%](Screen Shot 2017-02-10 at 7.54.29 PM.png)
